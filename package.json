@@ -1,7 +1,14 @@
 {
   "dependencies": {
+    "@fortawesome/fontawesome-svg-core": "^6.4.0",
+    "@fortawesome/free-brands-svg-icons": "^6.4.0",
+    "@fortawesome/free-regular-svg-icons": "^6.4.0",
+    "@fortawesome/free-solid-svg-icons": "^6.4.0",
+    "@fortawesome/react-fontawesome": "^0.2.0",
+    "babel-plugin-macros": "^3.1.0",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
+    "react-svg": "^16.1.7",
     "tsc": "^2.0.4",
     "typescript": "^5.0.3"
   },
@@ -10,6 +17,8 @@
     "@types/react": "^18.0.33",
     "@types/react-dom": "^18.0.11",
     "parcel": "^2.8.3",
-    "process": "^0.11.10"
+    "process": "^0.11.10",
+    "react-scripts": "^5.0.1",
+    "typescript-plugin-css-modules": "^5.0.1"
   }
 }
