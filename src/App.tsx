@@ -1,25 +1,10 @@
 import React from "react";
 import "./App.css";
-import {
-  Header,
-  Home,
-  About,
-  Projects,
-  Contact,
-  Footer,
-} from "./components/Index";
+import AppRoutes from "./routes/AppRoutes";
+
 
 const App: React.FC = () => {
-  return (
-    <>
-      <Header />
-      <Home />
-      <About />
-      <Projects />
-      <Contact />
-      <Footer />
-    </>
-  );
+  return <AppRoutes />;
 };
 
 export default App;

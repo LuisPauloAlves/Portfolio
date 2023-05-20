@@ -1,0 +1,25 @@
+.home {
+  height: 100vh;
+  display: flex;
+  align-items: center;
+  padding: 0 10%;
+}
+
+.homeContent{
+  color: #ededed;
+  max-width: 600px;
+}
+
+.homeContent h1{
+  font-size: 56px;
+  font-weight: 700;
+
+}
+
+.homeContent h3{
+  color: #00abf0
+}
+
+.homeContent p{
+  font-size: 16px;
+}
