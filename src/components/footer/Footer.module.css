@@ -10,8 +10,21 @@
   z-index: 100;
 }
 
+.footerContent{
+  display: flex;
+  width: 100%;
+  justify-content: space-between;
+  align-items: center;
+}
+
 .footerContent span {
   color: #ededed;
   font-size: 18px;
   font-weight: 700;
+}
+
+.footerContent ul li {
+  list-style: none;
+  display: inline;
+  padding: 5px;
 }

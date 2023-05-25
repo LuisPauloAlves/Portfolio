@@ -11,10 +11,10 @@ const Home: React.FC = () => {
           <h1>Hi, I'm Luis Paulo</h1>
           <h3>Frontend Developer</h3>
           <p>
-            Lorem ipsum dolor sit amet consectetur, adipisicing elit. Iure modi
-            magnam cum, saepe magni inventore dignissimos nihil? Quam ipsa,
-            debitis sint cumque, omnis placeat deserunt incidunt laboriosam amet
-            vitae tempora.
+            Lorem, ipsum dolor sit amet consectetur adipisicing elit. Expedita
+            praesentium doloribus reprehenderit. Excepturi, quasi iste
+            voluptatem recusandae sit sunt id in itaque blanditiis vitae sint
+            laudantium veniam rerum vero repellendus.
           </p>
         </div>
       </section>
