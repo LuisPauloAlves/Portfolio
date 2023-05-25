@@ -10,7 +10,7 @@ const GithubIcon: React.FC = () => {
         <FontAwesomeIcon
           icon={faGithub}
           size="xl"
-          style={{ color: "#00abf0" }}
+          style={{ color: "#ededed" }}
         />
       </Link>
     </li>
@@ -24,7 +24,7 @@ const LinkedinIcon: React.FC = () => {
         <FontAwesomeIcon
           icon={faLinkedin}
           size="xl"
-          style={{ color: "#00abf0" }}
+          style={{ color: "#ededed" }}
         />
       </Link>
     </li>
